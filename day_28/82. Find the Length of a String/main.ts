@@ -4,4 +4,4 @@ function stringLength(str: string): number {
     return str.length;
 }
 
-console.log(stringLength("Alice"));
+console.log(stringLength("Uns"));

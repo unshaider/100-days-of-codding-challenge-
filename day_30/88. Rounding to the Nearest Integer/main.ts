@@ -4,5 +4,5 @@ function roundToNearestInteger(num: number): number {
     return Math.round(num);
 }
 
-console.log(roundToNearestInteger(4.7)); // Outputs: 
+console.log(roundToNearestInteger(4.7));
 console.log(roundToNearestInteger(4.4));

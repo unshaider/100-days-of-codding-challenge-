@@ -10,5 +10,5 @@ function getNextBirthday(month: number, day: number): Date {
     return birthday;
 }
 
-const nextBirthday = getNextBirthday(12, 25);
+const nextBirthday = getNextBirthday(8, 3);
 console.log("Next birthday on:", nextBirthday.toLocaleDateString());

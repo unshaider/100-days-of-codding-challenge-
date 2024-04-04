@@ -3,8 +3,8 @@
 {
   let blockLet = "visible inside the block";
   const blockConst = "also only inside the block";
-  console.log(blockLet); // Works fine here
-  console.log(blockConst); // Also works fine here
+  console.log(blockLet);
+  console.log(blockConst);
 }
 
 try {

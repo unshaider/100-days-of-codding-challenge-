@@ -5,7 +5,7 @@ function swapValues() {
     console.log("Before swap: a =", a, "b =", b);
 
     let temp = a;
-    a = b; // Sets a to b's value
+    a = b;
     b = temp;
 
     console.log("After swap: a =", a, "b =", b);
