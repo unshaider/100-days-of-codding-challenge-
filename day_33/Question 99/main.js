@@ -1,5 +1,6 @@
 "use strict";
 // 99. Generate a date object representing your next birthday and log it to the console.
+Object.defineProperty(exports, "__esModule", { value: true });
 function getNextBirthday(month, day) {
     const today = new Date();
     let year = today.getFullYear();

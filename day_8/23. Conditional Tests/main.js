@@ -5,6 +5,7 @@
 // console.log(car == 'subaru')
 // • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 // • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
+Object.defineProperty(exports, "__esModule", { value: true });
 let bike = 'Honda';
 console.log("Is bike == 'Honda'? I predict True.");
 console.log(bike == 'Honda');

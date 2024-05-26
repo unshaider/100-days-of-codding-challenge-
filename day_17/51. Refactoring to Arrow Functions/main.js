@@ -1,5 +1,6 @@
 "use strict";
 // 51. Refactoring to Arrow Functions: Take a simple function that calculates the area of a rectangle and refactor it into an arrow function.
+Object.defineProperty(exports, "__esModule", { value: true });
 function area(width, height) {
     return width * height;
 }

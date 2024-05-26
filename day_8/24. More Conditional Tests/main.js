@@ -6,6 +6,7 @@
 // • Tests using "and" and "or" operators
 // • Test whether an item is in a array
 // • Test whether an item is not in a array
+Object.defineProperty(exports, "__esModule", { value: true });
 // Tests for equality and inequality with strings
 let str1 = "Hello";
 let str2 = "World";

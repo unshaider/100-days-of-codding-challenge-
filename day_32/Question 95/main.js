@@ -1,5 +1,6 @@
 "use strict";
 // 95. Write a function that uses the .filter() method to return an array of numbers greater than 10.
+Object.defineProperty(exports, "__esModule", { value: true });
 function filterGreaterThanTen(numbers) {
     return numbers.filter(number => number > 10);
 }

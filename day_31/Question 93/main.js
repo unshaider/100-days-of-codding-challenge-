@@ -1,5 +1,6 @@
 "use strict";
 // 93. Find the index of "Banana" in an array of fruits and replace it with "Mango".
+Object.defineProperty(exports, "__esModule", { value: true });
 function replaceBananaWithMango(fruits) {
     const index = fruits.indexOf("Banana");
     if (index !== -1)

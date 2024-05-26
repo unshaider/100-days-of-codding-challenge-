@@ -1,5 +1,6 @@
 "use strict";
 // 96. Demonstrate how to use the .reduce() method to calculate the sum of all numbers in an array.
+Object.defineProperty(exports, "__esModule", { value: true });
 function calculateSum(numbers) {
     return numbers.reduce((accumulator, current) => accumulator + current, 0);
 }

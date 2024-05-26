@@ -1,5 +1,6 @@
 "use strict";
 // 72: Block Scope with let and const: Demonstrate block scope by creating a code block with {} that uses both let and const. Show how variables declared inside the block are not accessible outside of it.
+Object.defineProperty(exports, "__esModule", { value: true });
 {
     let blockLet = "visible inside the block";
     const blockConst = "also only inside the block";

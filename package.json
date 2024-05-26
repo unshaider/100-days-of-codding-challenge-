@@ -1,0 +1,13 @@
+{
+  "name": "100-days-of-codding-challenge",
+  "version": "1.0.0",
+  "description": "\"# 100-days-of-codding-challenge-\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
